@@ -1,0 +1,1 @@
+SELECT * FROM `data-fabric-458308-k2.google_sheets.test_data` LIMIT 1000
